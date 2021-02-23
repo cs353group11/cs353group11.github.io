@@ -3,7 +3,7 @@
 # CS353 Group 11 Document Publisher
 ## Collaborators
 
-- Aybars Altınışık
-- Bulut Gözübüyük
-- Denizhan Kemeröz
-- Muharrem Berk Yıldız
+- Aybars Altınışık - 21601054
+- Bulut Gözübüyük - 21702771
+- Denizhan Kemeröz - 21703471
+- Muharrem Berk Yıldız - 21802492
